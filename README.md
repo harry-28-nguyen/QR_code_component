@@ -14,7 +14,7 @@
 ### Screenshot
 ![](./Screenshot.png)
 ### Links
-- Solution URL: [My solution URL here](https://github.com/harry-28-nguyen/QR_code_component.git)
+- Solution URL: [My solution URL here](https://www.frontendmentor.io/solutions/html-structures-css-flexbox-grid-PclOezEFS2)
 - Live Site URL: [My live site URL here](https://harry-28-nguyen.github.io/QR_code_component/)
 
 
