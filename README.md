@@ -15,7 +15,7 @@
 ![](./Screenshot.png)
 ### Links
 - Solution URL: [My solution URL here](https://github.com/harry-28-nguyen/QR_code_component.git)
-- Live Site URL: [My live site URL here](https://github.com/harry-28-nguyen/QR_code_component.git)
+- Live Site URL: [My live site URL here](https://harry-28-nguyen.github.io/QR_code_component/)
 
 
 ## My process
